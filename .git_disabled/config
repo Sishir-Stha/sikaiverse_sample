@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Sishir-Stha/sikaiverse_sample.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	vscode-merge-base = origin/main
+[branch "day3"]
+	vscode-merge-base = origin/main
+	gk-last-accessed = 2025-12-24T14:09:41.349Z
